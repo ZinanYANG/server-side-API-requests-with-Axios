@@ -9,9 +9,10 @@
   <li>Structured the app to support future scaling, enabling features like displaying multiple activity suggestions or cycling through recommendations.</li>
   <li>Ensured user input validation, fortifying the application against potential security vulnerabilities.</li>
   <li>Maintained and organized static assets using express.static, ensuring quick load times and efficient resource management.</li>
+  <li>Technologies Used: JavaScript, Express.js, EJS, CSS, Axios, body-parser.</li>
 </ul>
 
-Technologies Used: JavaScript, Express.js, EJS, CSS, Axios, body-parser.
+
 
 
 
