@@ -10,6 +10,7 @@
   <li>Ensured user input validation, fortifying the application against potential security vulnerabilities.</li>
   <li>Maintained and organized static assets using express.static, ensuring quick load times and efficient resource management.</li>
 </ul>
+Technologies Used: JavaScript, Express.js, EJS, CSS, Axios, body-parser.
 
 
 
